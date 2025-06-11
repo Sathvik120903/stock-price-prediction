@@ -20,8 +20,6 @@ To predict stock prices using historical data and evaluate the performance of tw
 - **KNN**: R² Score = 99.35%, MSE = 11.22
 - **Decision Tree**: R² Score = 99.32%, MSE = 11.65
 
-## 📷 Result
-![Prediction Plot](result_plot.png)
 
 ## 🔗 References
 - scikit-learn.org
@@ -29,4 +27,4 @@ To predict stock prices using historical data and evaluate the performance of tw
 - Investopedia.com
 
 ---
-Project by M S Saathvik | AICTE Student ID: AICTE123456
+Project by M S Saathvik 
